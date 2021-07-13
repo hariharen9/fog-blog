@@ -1,11 +1,11 @@
-## Next.js + Firebase - The Full Course
+## FOG - Your next BLOG goes here!
 
-- [Live Demo](https://next.fireship.io/)
-- [Enroll in the Course](https://fireship.io/courses/react-next-firebase/)
+- [Live](https://foggy.vercel.app/)
 
-Become an expert at React, Next.js, and Firebase by building a social blogging community from scratch. 
 
-Build a complex webapp inspired by sites Dev.to and Medium, featuring...
+Built this social blogging community from scratch using NEXTJS & FIREBASE. 
+
+IT is a blogging platform loosely inspired from Dev.to and Medium, featuring...
 
 - 👨‍🎤 Custom Firebase usernames
 - 📰 Bot-friendly content (SEO)
@@ -14,7 +14,7 @@ Build a complex webapp inspired by sites Dev.to and Medium, featuring...
 - ⚛️ Reactive forms with react-hook-form
 - 📂 Image file uploads
 - 💞 Realtime hearts
-- 🚀 Security & Deployment
+- 🚀 Security
 
 
 
