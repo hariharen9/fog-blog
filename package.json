@@ -1,18 +1,19 @@
 {
   "name": "nextfire",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "export": "next export"
   },
   "dependencies": {
+    "export": "^0.1.337",
     "firebase": "^8.7.1",
     "lodash.debounce": "^4.0.8",
     "lodash.kebabcase": "^4.1.1",
-    "next": "10.0.4",
+    "next": "^10.0.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-firebase-hooks": "^2.2.0",
